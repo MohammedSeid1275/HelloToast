@@ -17,8 +17,4 @@ Part I
 4. D
 5. B& C
 
-PART 2
-1. B
-2. C
-3. A
-4. A
+
