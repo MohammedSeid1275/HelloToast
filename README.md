@@ -1,11 +1,11 @@
 # HelloToast
 Assignment
 
-Name                ID number
+Name                                ID number
 
-Selemon ketema        1299
+Selemon ketema                        1299
 
-Mohammed Seid         1275
+Mohammed Seid                         1275
 
 Answers for multiple choice
 
