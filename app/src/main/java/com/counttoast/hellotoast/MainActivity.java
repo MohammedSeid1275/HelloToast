@@ -51,27 +51,7 @@ button2.setOnClickListener(new View.OnClickListener() {
 
 
 
-     /* public void count(View view) {
-        n++;
-        tv.setText(Integer.toString(n));
-
-    }
-
-  public void toast(View view) {
-
-        //button=(Button) findViewById(R.id.)
-        Intent intent=new Intent(MainActivity.this,HelloToast.class);
-
-        String num=tv.getText().toString();
-        intent.putExtra("message",num);
-        startActivity(intent);
-
-
-        //Toast.makeText(this,"Hello world",Toast.LENGTH_SHORT).show();
-        //String g;
-
-}*/
-
+   
 
 
 
